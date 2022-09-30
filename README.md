@@ -6,5 +6,6 @@ This project includes Android application, API Gateway and local Xibo CMS
 ### xibo-docker 3.0.2
 > Read config.env.themeplate and then set safe password for MYSQL_PASSWORD
 
+Demo: https://youtu.be/VtWKjj1BUlw
 
  
